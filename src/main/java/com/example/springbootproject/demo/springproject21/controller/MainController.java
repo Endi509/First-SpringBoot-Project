@@ -1,5 +1,6 @@
-package com.example.springbootproject.demo.springproject21.Component;
+package com.example.springbootproject.demo.springproject21.controller;
 
+import com.example.springbootproject.demo.springproject21.Component.MessageComponent;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
